@@ -1,0 +1,14 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{
+} 
+/* Body attributes here */
+
+body{ 
+    background-color: aqua;
+} 
